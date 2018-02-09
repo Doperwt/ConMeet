@@ -5,6 +5,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "meetup": "^0.1.0-SNAPSHOT"
+    "express": "^4.16.2",
+    "meetup": "^0.1.0-SNAPSHOT",
+    "nodemon": "^1.14.12",
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4"
   }
 }
