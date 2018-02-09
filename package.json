@@ -1,0 +1,10 @@
+{
+  "name": "ConMeet",
+  "version": "1.0.0",
+  "description": "connecting with meetup",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "meetup": "^0.1.0-SNAPSHOT"
+  }
+}
